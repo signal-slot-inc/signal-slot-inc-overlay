@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name><![CDATA[signal-slot-inc-overlay]]></name>
+		<description lang="en"><![CDATA[An overlay for me]]></description>
+		<homepage>https://github.com/signal-slot-inc/signal-slot-inc-overlay</homepage>
+		<owner type="person">
+			<email>tasuku.suzuki@signal-slot.co.jp</email>
+			<name><![CDATA[Tasuku Suzuki]]></name>
+		</owner>
+		<source type="git">https://github.com/signal-slot-inc/signal-slot-inc-overlay.git</source>
+	</repo>
+</repositories>
